@@ -1,2 +1,5 @@
 # Ignore all pdf files
 *.pdf
+
+# Ignore DS file
+*.DS_Store
