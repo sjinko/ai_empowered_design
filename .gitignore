@@ -3,3 +3,6 @@
 
 # Ignore DS file
 .DS_Store
+
+# Ignore DOCX files
+".docx
